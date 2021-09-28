@@ -41,3 +41,14 @@ body {
   color: var(--branco);
   margin-bottom: 15px;
 }
+
+input {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 4px 50px 4px 50px;
+  border-bottom: 4px solid var(--brancoAcizentado);
+  margin-bottom: 10px;
+}
+
+input:hover {
+  border-bottom: 4px solid var(--vermelho);
+}
